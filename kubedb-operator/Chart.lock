@@ -1,0 +1,18 @@
+dependencies:
+- name: kubedb-catalog
+  repository: https://charts.appscode.com/stable/
+  version: v2021.09.09
+- name: kubedb-community
+  repository: https://charts.appscode.com/stable/
+  version: v0.21.0
+- name: kubedb-enterprise
+  repository: https://charts.appscode.com/stable/
+  version: v0.8.0
+- name: kubedb-autoscaler
+  repository: https://charts.appscode.com/stable/
+  version: v0.6.0
+- name: kubedb-metrics
+  repository: https://charts.appscode.com/stable/
+  version: v2021.09.09
+digest: sha256:55ecfc1b9993aba6ee81ee4c3cbaed4566716e956ab1a6599db564b6b2936b48
+generated: "2021-09-23T10:08:42.568122505-04:00"
